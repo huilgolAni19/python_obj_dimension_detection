@@ -1,6 +1,20 @@
-# Python program to detect Dimention of the object using opencv-python and scipy
+# Detect Dimensions of the object using OpenCV-python
 
-'''Author Anirudh R Huilgol
-Date: 19-02-2019
-Time: 03:41 PM
-'''
+
+Foobar is a Python library for dealing with word pluralization.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install opencv-python
+pip install scipy
+```
+
+#### Developed by 
+Anirudh R Huilgol 
+Date: 
+19-02-2019
+Time:
+03:41 PM
